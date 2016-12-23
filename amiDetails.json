@@ -1,0 +1,22 @@
+{
+	"WME-3.2.2": {
+		"AMI_ID" : "ami-45dad22f",
+		"AMI_RELEASE_DATE" : "2016-3-29",
+		"AMI_RELEASE_VERSION" : "3.2.2"
+	},
+	"WME-3.4.3.1": {
+		"AMI_ID" : "ami-41048a56",
+		"AMI_RELEASE_DATE" : "2016-7-20",
+		"AMI_RELEASE_VERSION" : "3.4.3.1"
+	},
+	"WME-3.4.4.1": {
+		"AMI_ID" : "ami-8ac6bf9d",
+		"AMI_RELEASE_DATE" : "2016-9-21",
+		"AMI_RELEASE_VERSION" : "3.4.4.1"
+	},
+	"WME-3.4.6.1": {
+		"AMI_ID" : "ami-0ffca918",
+		"AMI_RELEASE_DATE" : "2016-10-14",
+		"AMI_RELEASE_VERSION" : "3.4.5.1"
+	}
+}
